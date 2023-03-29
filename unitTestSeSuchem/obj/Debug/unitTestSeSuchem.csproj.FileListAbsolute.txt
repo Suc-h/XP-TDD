@@ -1,0 +1,10 @@
+C:\Users\stachr.05\source\repos\unitTestSeSuchem\unitTestSeSuchem\bin\Debug\unitTestSeSuchem.exe.config
+C:\Users\stachr.05\source\repos\unitTestSeSuchem\unitTestSeSuchem\bin\Debug\unitTestSeSuchem.exe
+C:\Users\stachr.05\source\repos\unitTestSeSuchem\unitTestSeSuchem\bin\Debug\unitTestSeSuchem.pdb
+C:\Users\stachr.05\source\repos\unitTestSeSuchem\unitTestSeSuchem\obj\Debug\unitTestSeSuchem.csprojAssemblyReference.cache
+C:\Users\stachr.05\source\repos\unitTestSeSuchem\unitTestSeSuchem\obj\Debug\unitTestSeSuchem.Form1.resources
+C:\Users\stachr.05\source\repos\unitTestSeSuchem\unitTestSeSuchem\obj\Debug\unitTestSeSuchem.Properties.Resources.resources
+C:\Users\stachr.05\source\repos\unitTestSeSuchem\unitTestSeSuchem\obj\Debug\unitTestSeSuchem.csproj.GenerateResource.cache
+C:\Users\stachr.05\source\repos\unitTestSeSuchem\unitTestSeSuchem\obj\Debug\unitTestSeSuchem.csproj.CoreCompileInputs.cache
+C:\Users\stachr.05\source\repos\unitTestSeSuchem\unitTestSeSuchem\obj\Debug\unitTestSeSuchem.exe
+C:\Users\stachr.05\source\repos\unitTestSeSuchem\unitTestSeSuchem\obj\Debug\unitTestSeSuchem.pdb
